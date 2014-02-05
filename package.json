@@ -1,13 +1,13 @@
 {
   "name": "middleware-object-hooks",
   "version": "0.0.0",
-  "description": "middleware-object-hooks =======================",
+  "description": "Object/method based middleware/reduce hooks",
   "main": "middleware.js",
   "directories": {
     "example": "examples"
   },
   "scripts": {
-    "test": "make test"
+    "test": "./node_modules/.bin/mocha *_test.js"
   },
   "repository": {
     "type": "git",
