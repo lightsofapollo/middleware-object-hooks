@@ -5,7 +5,7 @@ Middleware(ish) hooks based on "methods" in objects.
 
 ## Usage
 
-(Also see [examples/](examples/)
+(Also see [examples/](examples/))
 
 ```js
 var middleware = require('middleware-object-hooks');
