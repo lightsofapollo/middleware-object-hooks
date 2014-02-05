@@ -14,6 +14,8 @@
     "url": "git://github.com/lightsofapollo/middleware-object-hooks.git"
   },
   "keywords": [
+    "middlware",
+    "promise",
     "object",
     "reduce"
   ],
