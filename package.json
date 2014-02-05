@@ -1,6 +1,6 @@
 {
   "name": "middleware-object-hooks",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Object/method based middleware/reduce hooks",
   "main": "middleware.js",
   "directories": {
@@ -27,5 +27,8 @@
     "mocha": "~1.17.1",
     "promise": "~3.2.0",
     "mocha-as-promised": "~2.0.0"
+  },
+  "dependencies": {
+    "promise": "~3.2.0"
   }
 }
