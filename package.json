@@ -1,6 +1,6 @@
 {
   "name": "middleware-object-hooks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Object/method based middleware/reduce hooks",
   "main": "middleware.js",
   "directories": {
