@@ -1,5 +1,7 @@
 # middleware-object-hooks
 
+[![Build Status](https://travis-ci.org/lightsofapollo/middleware-object-hooks.png?branch=master)](https://travis-ci.org/lightsofapollo/middleware-object-hooks)
+
 Middleware(ish) hooks based on "methods" in objects.
 
 
